@@ -1,0 +1,3 @@
+Pillow
+pyobjc
+py2app
