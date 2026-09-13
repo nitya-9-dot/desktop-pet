@@ -2,6 +2,41 @@
 
 A lightweight pixel-art Spider-Man version of me as a  desktop companion for macOS. The pet lives on the Finder desktop, walks across the screen, sleeps when the mouse is inactive, responds to clicks with a web-shot jump, and provides food and water reminders.
 
+## 🕷️ See It In Action
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="assets/gifs/swing.gif" width="300"><br>
+<b>🕸️ Web Swing</b><br>
+<sub>Jump to wherever you click on the desktop</sub>
+</td>
+
+<td align="center">
+<img src="assets/gifs/sleep.gif" width="300"><br>
+<b>💤 Sleep Mode</b><br>
+<sub>The pet sleeps when the mouse is inactive</sub>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="assets/gifs/food_alert.gif" width="300"><br>
+<b>🍜 Food Reminder</b><br>
+<sub>Scheduled reminders for meals</sub>
+</td>
+
+<td align="center">
+<img src="assets/gifs/water_alert.gif" width="300"><br>
+<b>💧 Water Reminder</b><br>
+<sub>Reminders to stay hydrated</sub>
+</td>
+</tr>
+</table>
+
+</div>
 ## Features
 
 - Transparent, borderless desktop-pet window
